@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToObjects", "LinqToObjects\LinqToObjects.csproj", "{A35D29D5-9BD7-4E1E-A2D4-C42F67F7BEC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToObjectsTests", "LinqToObjectsTests\LinqToObjectsTests.csproj", "{22E7BFA8-08D5-4C77-9E0D-5CB8DA28B404}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A35D29D5-9BD7-4E1E-A2D4-C42F67F7BEC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A35D29D5-9BD7-4E1E-A2D4-C42F67F7BEC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A35D29D5-9BD7-4E1E-A2D4-C42F67F7BEC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A35D29D5-9BD7-4E1E-A2D4-C42F67F7BEC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22E7BFA8-08D5-4C77-9E0D-5CB8DA28B404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22E7BFA8-08D5-4C77-9E0D-5CB8DA28B404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22E7BFA8-08D5-4C77-9E0D-5CB8DA28B404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22E7BFA8-08D5-4C77-9E0D-5CB8DA28B404}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

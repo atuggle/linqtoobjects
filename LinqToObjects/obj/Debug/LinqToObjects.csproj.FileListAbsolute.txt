@@ -1,0 +1,5 @@
+D:\Work\Scratch\bitbucket\linqtoobjects\LinqToObjects\bin\Debug\LinqToObjects.dll
+D:\Work\Scratch\bitbucket\linqtoobjects\LinqToObjects\bin\Debug\LinqToObjects.pdb
+D:\Work\Scratch\bitbucket\linqtoobjects\LinqToObjects\obj\Debug\LinqToObjects.csprojResolveAssemblyReference.cache
+D:\Work\Scratch\bitbucket\linqtoobjects\LinqToObjects\obj\Debug\LinqToObjects.dll
+D:\Work\Scratch\bitbucket\linqtoobjects\LinqToObjects\obj\Debug\LinqToObjects.pdb

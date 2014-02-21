@@ -1,0 +1,7 @@
+D:\Work\Scratch\bitbucket\linqtoobjects\LinqToObjectsTests\bin\Debug\LinqToObjectsTests.dll
+D:\Work\Scratch\bitbucket\linqtoobjects\LinqToObjectsTests\bin\Debug\LinqToObjectsTests.pdb
+D:\Work\Scratch\bitbucket\linqtoobjects\LinqToObjectsTests\bin\Debug\LinqToObjects.dll
+D:\Work\Scratch\bitbucket\linqtoobjects\LinqToObjectsTests\bin\Debug\LinqToObjects.pdb
+D:\Work\Scratch\bitbucket\linqtoobjects\LinqToObjectsTests\obj\Debug\LinqToObjectsTests.csprojResolveAssemblyReference.cache
+D:\Work\Scratch\bitbucket\linqtoobjects\LinqToObjectsTests\obj\Debug\LinqToObjectsTests.dll
+D:\Work\Scratch\bitbucket\linqtoobjects\LinqToObjectsTests\obj\Debug\LinqToObjectsTests.pdb
