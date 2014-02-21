@@ -10,11 +10,10 @@ namespace LinqToObjectsTests
     [TestClass]
     public class WhereTests
     {
-
         [TestMethod]
         public void WhereShouldReturnSubListOfObjectsThatMeetPredicateCriteria()
         {
-            String[] list = new String[10];
+            var list = new String[10];
             for (int i = 0; i < 10; i++)
                 list[i] = i.ToString();
 
@@ -43,12 +42,10 @@ namespace LinqToObjectsTests
         [TestMethod]
         public void WhereShouldWorkWithIndexAndReturnObjectsThatMeetPredicateCriteria()
         {
-            int[] numbers = { 0, 30, 20, 15, 90, 85, 40, 75 };
-
+            var numbers = new Int32[] { 0, 30, 20, 15, 90, 85, 40, 75 };
+            var expectedResults = new Int32[] { 0, 20, 15, 40 };
             var query = numbers.Where((number, index) => number <= index * 10);
             var enumerator = query.GetEnumerator();
-
-            int[] expectedResults = { 0, 20, 15, 40 };
 
             Assert.AreEqual(expectedResults.Count(), query.Count());
             for (Int32 i = 0; i < expectedResults.Count(); i++)

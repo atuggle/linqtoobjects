@@ -13,7 +13,7 @@ namespace LinqToObjectsTests
         [TestMethod]
         public void AnyShouldReturnTrueOnListGreaterThanOneInSize()
         {
-            String[] list = new String[10];
+            var list = new String[10];
             for (int i = 0; i < 10; i++)
                 list[i] = i.ToString();
 
@@ -23,8 +23,7 @@ namespace LinqToObjectsTests
         [TestMethod]
         public void AnyShouldReturnFalseIfTheListIsEmpty()
         {
-            List<String> list = new List<string>();
-
+            var list = new List<string>();
             Assert.IsFalse(list.Any());
         }
     }
